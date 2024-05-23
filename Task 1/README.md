@@ -1,4 +1,6 @@
-
+# Programming Club Secretary recruitment task
+## - by Pratul Koolwal
+## Roll No. - 230782
 The problem presented here is a Competitive Programming Problem utilizing concepts from number theory.
 Problem statement, Editorial and Solution Code are also present in the folder with respective names.
 
